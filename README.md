@@ -6,4 +6,6 @@ I am an Assistant Professor in Computer Science and Engineering at [Insper](http
 
 Here's some stuff I've built (some in collaboration with my colleagues) for the courses I teach:
 
-- [Python Gym](https://github.com/insper/servidor-de-desafios): a web app with which students can learn and practice coding in Python and get instant feedback on their exercises. It is used by all our engineering students in their intro to programming course.
+- **Python Gym:** a web app with which students can learn and practice coding in Python and get instant feedback on their exercises. It is used by all our engineering students in their intro to programming course.
+  - [Backend](https://github.com/insper/servidor-de-desafios):
+    - Tools: 
