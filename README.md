@@ -26,7 +26,7 @@ Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmard
 
 <br clear="both"/>
 
-### EyeSwipe <img src="./img/eyeswipe.png" align="right" width="150">
+### EyeSwipe <img src="./img/eyeswipe-cpm.png" align="right" width="150">
 
 Gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time.
   
