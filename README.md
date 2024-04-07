@@ -38,6 +38,16 @@ Gaze-based text entry method that uses gaze gestures to type words instead of ty
 
 <br clear="both"/>
 
+### Swipe&Switch
+
+<iframe aria-label="Presentation+Video" poster="https://videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg/thumbnails/thumbnail.jpg?time=10.0s" class="cloudflare-stream-player" id="video_stream_uuid%3A3a891649-7588-4e55-a45d-4e758736a404" height="187px" width="100%" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" loading="lazy" allowfullscreen="true" src="https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D10.0s"></iframe>
+
+- **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- **Repo:** https://github.com/toshikurauchi/swipe-and-switch
+- **Paper:** https://dl.acm.org/doi/10.1145/3379350.3416193
+
+<br clear="both"/>
+
 ## What I've built for teaching
 
 Here's some stuff I've built (some in collaboration with my colleagues) for the courses I teach:
