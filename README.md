@@ -17,6 +17,8 @@ Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allo
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 - **Repo:** https://github.com/toshikurauchi/CameraMouseSuite-cross-platform
 
+<br clear="both"/>
+
 ### Haytham Linux
 
 <img src="./img/haytham.jpg" align="right" width="150">
@@ -25,6 +27,8 @@ Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmard
   
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 - **Repo:** https://bitbucket.org/toshikurauchi/haytham-linux
+
+<br clear="both"/>
 
 ### EyeSwipe
 
@@ -37,6 +41,8 @@ Gaze-based text entry method that uses gaze gestures to type words instead of ty
 - **Paper:** https://dl.acm.org/doi/10.1145/2858036.2858335
 - **Video:** https://www.youtube.com/watch?v=QpghYJwTMuc
 - **Talk@CHI'16:** https://www.youtube.com/watch?v=KAoyekbur8I
+
+<br clear="both"/>
 
 ## What I've built for teaching
 
