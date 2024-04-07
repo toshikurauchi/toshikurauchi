@@ -8,9 +8,7 @@ I am an Assistant Professor in Computer Science and Engineering at [Insper](http
 
 These are some of my research projects:
 
-<img src="./img/cameramouse.png" align="right" width="150"> 
-
-### CameraMouseSuite [cross-platform version]
+### CameraMouseSuite [cross-platform version] <img src="./img/cameramouse.png" align="right" width="150"> 
 
 Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allows users to control the mouse pointer using body movements (e.g. head) captured by a webcam.
 
@@ -19,9 +17,7 @@ Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allo
 
 <br clear="both"/>
 
-<img src="./img/haytham.jpg" align="right" width="150">
-
-### Haytham Linux
+### Haytham Linux <img src="./img/haytham.jpg" align="right" width="150">
 
 Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmardanbegi.com/software.html) by [Diako Mardanbegi](http://www.dmardanbegi.com/)
   
@@ -30,9 +26,7 @@ Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmard
 
 <br clear="both"/>
 
-<img src="./img/eyeswipe.png" align="right" width="150">
-
-### EyeSwipe
+### EyeSwipe <img src="./img/eyeswipe.png" align="right" width="150">
 
 Gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time.
   
