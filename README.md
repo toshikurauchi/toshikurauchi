@@ -8,28 +8,35 @@ I am an Assistant Professor in Computer Science and Engineering at [Insper](http
 
 These are some of my research projects:
 
-<img src="./img/cameramouse.png" align="left" width="150"> 
+### CameraMouseSuite [cross-platform version]
 
-- **CameraMouseSuite [cross-platform version]:** Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allows users to control the mouse pointer using body movements (e.g. head) captured by a webcam.
-  - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-  - **Repo:** https://github.com/toshikurauchi/CameraMouseSuite-cross-platform
+<img src="./img/cameramouse.png" align="right" width="150"> 
+
+Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allows users to control the mouse pointer using body movements (e.g. head) captured by a webcam.
+
+- **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+- **Repo:** https://github.com/toshikurauchi/CameraMouseSuite-cross-platform
+
+### Haytham Linux
 
 <img src="./img/haytham.jpg" align="right" width="150">
 
-- **Haytham Linux:** cross-platform mobile gaze tracking software based on [Haytham](http://www.dmardanbegi.com/software.html) by [Diako Mardanbegi](http://www.dmardanbegi.com/)
-  - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-  - **Repo:** https://bitbucket.org/toshikurauchi/haytham-linux
+Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmardanbegi.com/software.html) by [Diako Mardanbegi](http://www.dmardanbegi.com/)
+  
+- **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+- **Repo:** https://bitbucket.org/toshikurauchi/haytham-linux
 
-<img src="./img/eyeswipe.png" align="left" width="150">
+### EyeSwipe
 
-- **EyeSwipe:** gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time.
-  - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-  - **Repo:** https://github.com/toshikurauchi/eyeswipe
-  - **Paper:** https://dl.acm.org/doi/10.1145/2858036.2858335
-  - **Video:** https://www.youtube.com/watch?v=QpghYJwTMuc
-  - **Talk@CHI'16:** https://www.youtube.com/watch?v=KAoyekbur8I
+<img src="./img/eyeswipe.png" align="right" width="150">
 
-<br clear="both"/>
+Gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time.
+  
+- **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- **Repo:** https://github.com/toshikurauchi/eyeswipe
+- **Paper:** https://dl.acm.org/doi/10.1145/2858036.2858335
+- **Video:** https://www.youtube.com/watch?v=QpghYJwTMuc
+- **Talk@CHI'16:** https://www.youtube.com/watch?v=KAoyekbur8I
 
 ## What I've built for teaching
 
