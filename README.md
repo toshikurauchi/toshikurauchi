@@ -28,9 +28,10 @@ Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmard
 
 ### EyeSwipe <img src="./img/eyeswipe-cpm.png" align="right" width="150">
 
-Gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time.
+Gaze-based text entry method that uses gaze gestures to type words instead of typing letter by letter with dwell-time. The initial and final letters of the word are indicated by performing an eye gesture called "reverse crossing", in which the user looks at a button displayed above the key and then looks back at the key to finish the selection.
   
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- **Authors:** Andrew T. N. Kurauchi, Wenxin Feng, Ajjen Joshi, Carlos H. Morimoto, Margrit Betke
 - **Repo:** https://github.com/toshikurauchi/eyeswipe
 - **Paper:** https://dl.acm.org/doi/10.1145/2858036.2858335
 - **Video:** https://www.youtube.com/watch?v=QpghYJwTMuc
@@ -38,21 +39,43 @@ Gaze-based text entry method that uses gaze gestures to type words instead of ty
 
 <br clear="both"/>
 
-### Swipe&Switch
+### Swipe&Switch <img src="./img/swipe-switch.jpg" align="right" width="150">
 
-<iframe aria-label="Presentation+Video" poster="https://videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg/thumbnails/thumbnail.jpg?time=10.0s" class="cloudflare-stream-player" id="video_stream_uuid%3A3a891649-7588-4e55-a45d-4e758736a404" height="187px" width="100%" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" loading="lazy" allowfullscreen="true" src="https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzI2Yjg4YWJiYTgzYzJhYmMxNzBkYjg0MDY3MWI0MiIsImV4cCI6MTcxMjQ4MDc5NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.P-5VcALZh5jBuSb5M6008I6Ns8PIq3991qumtmiYmMdUf0AXu3-Uq4kzqB4ZsztcQAHs2NmhB2kcksOjhOxfF0_7dA_ik7g1fecV4SPUT8PonAjm5DbmaYUoTNy8jIN9YskJZUMvsYdkiscB5qGw6YxGM20J9o_c_KX59NVeFfwPgCJ5VcQVXnTICUg0lQO3cKqPRIoahy-JY-2i92YJ0xlAQUEqKN6iNQAAuAFgXIitXz968NgfTvgw9qpv7G8zeUc_T2GCnc2j-C3Nqx0jfLfqTTnVIi2R8gMmLmycJcQV4SviCaKgRjYQF-hhXX582fJ8wWV-eGmBDsAPqg6uqg%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D10.0s"></iframe>
+An evolution of EyeSwipe that uses context switching between regions as a selection method. There are three regions: Text, Action, and Gesture regions. To type a word, the user looks at the Gesture region, glances at the letters that form the desired word and then moves their gaze to either the Text or Action regions.
 
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- **Authors:** Andrew T. N. Kurauchi, Wenxin Feng, Ajjen Joshi, Carlos H. Morimoto, Margrit Betke
 - **Repo:** https://github.com/toshikurauchi/swipe-and-switch
 - **Paper:** https://dl.acm.org/doi/10.1145/3379350.3416193
 
 <br clear="both"/>
 
+### HMAGIC: Head Movement and Gaze Input Cascaded Pointing <img src="./img/hmagic.png" align="right" width="150">
+
+Head Movement And Gaze Input Cascaded (HMAGIC) pointing is a technique that combines head movement and gaze-based inputs in a fast and accurate mouse-replacement interface. The interface initially places the pointer at the estimated gaze position and then the user makes fine adjustments with their head movements. 
+
+- **Built with:** ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+- **Authors:** Andrew T. N. Kurauchi, Wenxin Feng, Carlos H. Morimoto, Margrit Betke
+- **Repo:** https://github.com/toshikurauchi/CameraMouseSuite/tree/MAGICMouse-Head-Trigger
+- **Paper:** https://dl.acm.org/doi/abs/10.1145/2769493.2769550
+
+<br clear="both"/>
+
+### Heatmap Explorer <img src="./img/heatmap-explorer.png" align="right" width="150">
+
+An interactive gaze data visualization tool for the evaluation of computer interfaces. Heatmap Explorer allows the experimenter to control the visualization by selecting temporal intervals and adjusting filter parameters of the eye movement classification algorithm.
+
+- **Built with:** ![Python](https://img.shields.io/badge/Python-4584b6?logo=python&logoColor=ffde57) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- **Authors:** Antonio Diaz Tula, Andrew T. N. Kurauchi, Flávio L. Coutinho, and Carlos H. Morimoto
+- **Repo:** https://bitbucket.org/latin/heatmap_explorer/src/master/
+- **Paper:** https://dl.acm.org/doi/10.1145/3033701.3033725
+
 ## What I've built for teaching
 
-Here's some stuff I've built (some in collaboration with my colleagues) for the courses I teach:
+Here's some stuff I've built for the courses I teach:
 
 - **Python Gym:** a web app with which students can learn and practice coding in Python and get instant feedback on their exercises. It is used by all our engineering students in their intro to programming course.
+  - **Authors:** several students and faculty from Insper contributed to this project. For a full list, go to https://github.com/Insper/servidor-de-desafios/graphs/contributors
   - [Backend](https://github.com/insper/servidor-de-desafios):
     - Built with: ![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![Python](https://img.shields.io/badge/Python-4584b6?logo=python&logoColor=ffde57)
   - [Frontend](https://github.com/toshikurauchi/servidor-de-desafios-frontend)
