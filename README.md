@@ -10,7 +10,7 @@ These are some of my research projects:
 
 ### CameraMouseSuite [cross-platform version] <img src="./img/cameramouse.png" align="right" width="150"> 
 
-Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allows users to control the mouse pointer using body movements (e.g. head) captured by a webcam.
+Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allows users to control the mouse pointer using body movements (e.g. head) captured by a webcam. As the user moves their head (or other body part being tracked by the camera), the mouse pointer replicates their movement. Clicks are performed with dwell time (keeping the mouse pointer still for a certain amount of time).
 
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 - **Repo:** https://github.com/toshikurauchi/CameraMouseSuite-cross-platform
@@ -19,7 +19,7 @@ Qt implementation of Camera Mouse Suite, a mouse-replacement interface that allo
 
 ### Haytham Linux <img src="./img/haytham.jpg" align="right" width="150">
 
-Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmardanbegi.com/software.html) by [Diako Mardanbegi](http://www.dmardanbegi.com/)
+Cross-platform mobile gaze tracking software based on [Haytham](http://www.dmardanbegi.com/software.html) by [Diako Mardanbegi](http://www.dmardanbegi.com/). The mobile eye tracker must be built using at least two cameras: one to capture the scene and the other to capture the eye image. Some infrared light must be attached to the eye camera and an infrared filter (an exposed film will do) must also be added.
   
 - **Built with:** ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 - **Repo:** https://bitbucket.org/toshikurauchi/haytham-linux
@@ -80,11 +80,11 @@ Here's some stuff I've built for the courses I teach:
     - Built with: ![Django](https://img.shields.io/badge/Django-092E20?logo=django) ![Python](https://img.shields.io/badge/Python-4584b6?logo=python&logoColor=ffde57)
   - [Frontend](https://github.com/toshikurauchi/servidor-de-desafios-frontend)
     - Built with: ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-- **[Active Handout Astro](https://toshikurauchi.github.io/active-handout-astro/reference/):** a framework for interactive course development. Instructors can build their course material with multiple choice questions, Parsons problems, text exercises, slides, and more, using MDX.
-  - Repo: https://github.com/toshikurauchi/active-handout-astro
-  - Built with: ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx) ![SASS](https://img.shields.io/badge/SASS-white?logo=sass) ![React](https://img.shields.io/badge/React-black?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
-
-
-
-
-
+- **[Active Handout Astro](https://toshikurauchi.github.io/active-handout-astro/):** a framework for interactive course development built with [Astro](https://astro.build/). Complete rewrite applying lessons learnt from building the [original Active Handout framework](https://github.com/insper-education/active-handout-plugins-py). Instructors can build their course material with multiple choice questions, Parsons problems, text exercises, slides, and more, using MDX.
+  - **Repo:** https://github.com/toshikurauchi/active-handout-astro
+  - **Built with:** ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx) ![SASS](https://img.shields.io/badge/SASS-white?logo=sass) ![React](https://img.shields.io/badge/React-black?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+- **[Active Handout](https://insper-education.github.io/active-handout/):** a framework for interactive course development built with [MkDocs](https://www.mkdocs.org/). Instructors can build their course material with multiple choice questions, Parsons problems, text exercises, slides, and more, using markdown.
+  - **Authors:** [Andrew Kurauchi](https://github.com/toshikurauchi), [Igor Montagner](https://github.com/igordsm), [Rafael Corsi](https://github.com/rafaelcorsi), [Leonardo Mendes](https://github.com/zMendes), [Marcio Stabile](https://github.com/mfstabile), [Graziela Tonin](https://github.com/gttonin), [Bárbara Agena](https://github.com/BarbaraTieko)
+  - **Repo:** https://github.com/insper-education/active-handout-plugins-py
+  - **Built with:** ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown) ![SASS](https://img.shields.io/badge/SASS-white?logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-4584b6?logo=python&logoColor=ffde57)
+- I've also developed some course material using the above tools. They are in private repos because they may contain sensitive information, such as exam questions, but I will gladly share them with other interested instructors.
