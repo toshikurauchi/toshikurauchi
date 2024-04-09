@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kurauchi-a8499115/)
 
-I am an Assistant Professor in Computer Science and Engineering at [Insper](https://www.insper.edu.br/en/). I like to build interactive applications and tools.
+I am an Assistant Professor in Computer Science and Engineering at [Insper](https://www.insper.edu.br/en/), with a primary focus on teaching. I am passionate about building interactive applications and tools, especially in assistive technology and teaching contexts. I particularly enjoy working with eye trackers and gaze-based interaction.
 
 ## What I've built for research
 
@@ -88,3 +88,6 @@ Here's some stuff I've built for the courses I teach:
   - **Repo:** https://github.com/insper-education/active-handout-plugins-py
   - **Built with:** ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown) ![SASS](https://img.shields.io/badge/SASS-white?logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-4584b6?logo=python&logoColor=ffde57)
 - I've also developed some course material using the above tools. They are in private repos because they may contain sensitive information, such as exam questions, but I will gladly share them with other interested instructors.
+
+<!-- ## What I've built for fun
+ -->
