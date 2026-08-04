@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-kurauchi-a8499115/)
 
-I am an Assistant Professor in Computer Science and Engineering at [Insper](https://www.insper.edu.br/en/), with a primary focus on teaching. I am passionate about building interactive applications and tools, especially in assistive technology and teaching contexts. I particularly enjoy working with eye trackers and gaze-based interaction.
+I am currently a Software Engineer at Google. Previously I was an Assistant Professor in Computer Science and Engineering at [Insper](https://www.insper.edu.br/en/), with a primary focus on teaching. I am passionate about building interactive applications and tools, especially in assistive technology and teaching contexts. I particularly enjoy working with eye trackers and gaze-based interaction.
 
 ## What I've built for research
 
